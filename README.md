@@ -1,6 +1,6 @@
 <h3>Hi there I'm Jules, also known as Le Jules or Happy_Possum!</h3>
 
-- :calendar: 18 years old guy from the Netherlands
+- :calendar: 20 years old guy from the Netherlands
 
 <h3>I'm a first year Software Development student</h3>
 
