@@ -2,7 +2,7 @@
 
 - :calendar: 20 years old guy from the Netherlands
 
-<h3>I'm a first year Software Development student</h3>
+<h3>I'm a second year Software Development student</h3>
 
 - :computer: Currently working on a callout pack for LSPDFR using **C#**.
 - :books: I have basic understanding of C#, Java, SQL, HTML5 and CSS3.
