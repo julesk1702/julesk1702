@@ -9,6 +9,7 @@
 - :notebook: I’m currently a student at the HAN University of Applied Sciences.
 - 📫 How to reach me you can reach me sending me a pm either via Twitter or LinkedIn!
 
+[![wakatime](https://wakatime.com/badge/user/1adad99a-e466-4bd9-a250-07c67336b1d1/project/36763353-d19f-4456-a854-c5bbe4726271.svg)](https://wakatime.com/badge/user/1adad99a-e466-4bd9-a250-07c67336b1d1/project/36763353-d19f-4456-a854-c5bbe4726271)
 
 <h3>Languages I know:</h3>
 
