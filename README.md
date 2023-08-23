@@ -4,28 +4,19 @@
 
 <h3>I'm a second year Software Development student</h3>
 
-- :computer: Currently working on a callout pack for LSPDFR using **C#**.
+- :computer: Currently developing a mobile app for zwembad 'De Zeven Morgen'.
 - :books: I have basic understanding of C#, Java, SQL, HTML5 and CSS3.
 - :notebook: I’m currently a student at the HAN University of Applied Sciences.
 - 📫 How to reach me you can reach me sending me a pm either via Twitter or LinkedIn!
 
 
-<h3>Languages I know :bookmark_tabs:</h3>
+<h3>Languages I know:</h3>
 
-![C#](https://img.shields.io/badge/-C%23-informational?style=flat-square&logo=c#)
-![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A
-)
-![PHP](https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=php
-)
-![MYSQL](https://img.shields.io/badge/-MYSQL-grey?style=flat-square&logo=mysql
-)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql
-)
-![HTML](https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5
-)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3
-)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/09a1d894-e55d-4b8f-a470-af6134db3a5c.png" /></a>
 
+
+<h3>My coding activity:</h3>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/09a1d894-e55d-4b8f-a470-af6134db3a5c.png" /></a>
 <!---
 julesk1702/julesk1702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
