@@ -8,16 +8,10 @@
 - :books: I have basic understanding of C#, Java, SQL, HTML5 and CSS3.
 - :notebook: I’m currently a student at the HAN University of Applied Sciences.
 - 📫 How to reach me you can reach me sending me a pm either via Twitter or LinkedIn!
-
-[![wakatime](https://wakatime.com/badge/user/1adad99a-e466-4bd9-a250-07c67336b1d1/project/36763353-d19f-4456-a854-c5bbe4726271.svg)](https://wakatime.com/badge/user/1adad99a-e466-4bd9-a250-07c67336b1d1/project/36763353-d19f-4456-a854-c5bbe4726271)
-
-<h3>Languages I know:</h3>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/09a1d894-e55d-4b8f-a470-af6134db3a5c.png" /></a>
-
-
-<h3>My coding activity:</h3>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/09a1d894-e55d-4b8f-a470-af6134db3a5c.png" /></a>
+  
+<img src="https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/f6c5feff-8bf0-488b-96c4-66632a711e4b.svg">
+<img src="https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/57b9ee15-f2cb-406a-a347-cd356e057123.svg">
+<img src="https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/d06ef2d3-aea3-4b55-813d-34fe6a13ea7d.svg">
 <!---
 julesk1702/julesk1702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
