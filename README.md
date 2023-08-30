@@ -19,8 +19,8 @@
 
 <!-- Replace with your actual WakaTime profile URLs -->
 ![WakaTime](https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/f6c5feff-8bf0-488b-96c4-66632a711e4b.svg)
-![WakaTime](https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/57b9ee15-f2cb-406a-a347-cd356e057123.svg)
-![WakaTime](https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/d06ef2d3-aea3-4b55-813d-34fe6a13ea7d.svg)
+![WakaTime](https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/d165aa91-c19a-4291-a168-515c84307f32.svg)
+![WakaTime](https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/363dfdf9-2105-4302-b8c3-6d063e2316b2.svg)
 
 ## Connect with Me
 
