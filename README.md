@@ -5,9 +5,9 @@
 ## About Me
 
 - :calendar: 20 years old guy from the Netherlands
-- :mortar_board: Second-year Software Development student
+- :mortar_board: Third-year Web Development student
 - :computer: Currently developing a mobile app for zwembad 'De Zeven Morgen'
-- :books: Basic understanding of C#, Java, SQL, HTML5, and CSS3
+- :books: Basic understanding of C#, Java, JavaScript, React Native, SQL, HTML5, and CSS3
 - :notebook: Studying at HAN University of Applied Sciences
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/jules-koster/)
 
