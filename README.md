@@ -6,7 +6,7 @@
 
 - :calendar: 20 years old guy from the Netherlands
 - :mortar_board: Third-year Web Development student
-- :computer: Currently developing a mobile app for zwembad 'De Zeven Morgen'
+- :computer: Currently developing a mobile app for zwembad 'De Zeven Morgen' ![WakaTime](https://wakatime.com/badge/user/1adad99a-e466-4bd9-a250-07c67336b1d1/project/84ef9761-bae7-42fa-adf1-9db76e69178e.svg)
 - :books: Basic understanding of C#, Java, JavaScript, React Native, SQL, HTML5, and CSS3
 - :notebook: Studying at HAN University of Applied Sciences
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/jules-koster/)
@@ -26,6 +26,14 @@
 ![WakaTime](https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/f6c5feff-8bf0-488b-96c4-66632a711e4b.svg)
 ![WakaTime](https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/d165aa91-c19a-4291-a168-515c84307f32.svg)
 ![WakaTime](https://wakatime.com/share/@1adad99a-e466-4bd9-a250-07c67336b1d1/363dfdf9-2105-4302-b8c3-6d063e2316b2.svg)
+
+### Current Projects
+
+Zwembad Dreumel Mobile App:<br>
+![WakaTime](https://wakatime.com/badge/user/1adad99a-e466-4bd9-a250-07c67336b1d1/project/84ef9761-bae7-42fa-adf1-9db76e69178e.svg)
+
+Top2000Statistics:<br>
+![WakaTime](https://wakatime.com/badge/user/1adad99a-e466-4bd9-a250-07c67336b1d1/project/018c774c-fa7c-4fc0-ac88-08de4ee7e9f1.svg)
 
 ## Connect with Me
 
