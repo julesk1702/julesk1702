@@ -4,7 +4,7 @@
 
 ## About Me
 
-- :calendar: 20 years old guy from the Netherlands
+- :calendar: 21 years old guy from the Netherlands
 - :mortar_board: Third-year Web Development student
 - :computer: Currently developing a mobile app for zwembad 'De Zeven Morgen' ![WakaTime](https://wakatime.com/badge/user/1adad99a-e466-4bd9-a250-07c67336b1d1/project/84ef9761-bae7-42fa-adf1-9db76e69178e.svg)
 - :books: Basic understanding of C#, Java, JavaScript, React Native, SQL, HTML5, and CSS3
